@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17713a14-aec9-4009-85b3-1cd4fe32c57f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/auth/SignIn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/auth/SignUp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/dashboard/Dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/dashboard/Notifications.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layout/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layout/SignedInLinks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layout/SignedOutLinks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/projects/CreateProject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/projects/ProjectDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/projects/ProjectList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/projects/ProjectSummary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/fbConfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/action/authActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/action/projectActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/authReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/projectReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/rootReducer.js" afterDir="false" />
+      <change afterPath="D:/angular/reatexperiment/my-app/src/components/First.js" afterDir="false" />
+      <change afterPath="D:/angular/reatexperiment/my-app/src/components/PostEditor.js" afterDir="false" />
+      <change afterPath="D:/angular/reatexperiment/my-app/src/components/Second.js" afterDir="false" />
+      <change afterPath="D:/angular/reatexperiment/my-app/src/components/Third.js" afterDir="false" />
+      <change afterPath="D:/lambda/react-bootstrap-wizard-master/react-bootstrap-wizard-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/.env" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/css/dashboard.css" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/css/dashboard.rtl.css" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/fonts/feather/feather-webfont.eot" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/fonts/feather/feather-webfont.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/fonts/feather/feather-webfont.ttf" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/fonts/feather/feather-webfont.woff" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/browsers/android-browser.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/browsers/aol-explorer.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/browsers/blackberry.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/browsers/camino.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/browsers/chrome.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/browsers/chromium.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/browsers/dolphin.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/browsers/edge.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/browsers/firefox.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/browsers/ie.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/browsers/maxthon.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/browsers/mozilla.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/browsers/netscape.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/browsers/opera.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/browsers/safari.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/browsers/sleipnir.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/browsers/uc-browser.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/browsers/vivaldi.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/crypto-currencies/bitcoin.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/crypto-currencies/cardano.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/crypto-currencies/dash.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/crypto-currencies/eos.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/crypto-currencies/ethereum.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/crypto-currencies/litecoin.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/crypto-currencies/nem.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/crypto-currencies/ripple.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ad.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ae.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/af.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ag.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ai.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/al.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/am.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ao.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/aq.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ar.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/as.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/at.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/au.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/aw.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ax.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/az.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ba.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/bb.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/bd.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/be.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/bf.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/bg.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/bh.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/bi.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/bj.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/bl.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/bm.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/bn.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/bo.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/bq.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/br.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/bs.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/bt.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/bv.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/bw.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/by.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/bz.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ca.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/cc.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/cd.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/cf.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/cg.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ch.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ci.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ck.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/cl.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/cm.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/cn.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/co.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/cr.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/cu.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/cv.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/cw.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/cx.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/cy.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/cz.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/de.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/dj.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/dk.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/dm.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/do.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/dz.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ec.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ee.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/eg.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/eh.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/er.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/es.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/et.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/eu.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/fi.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/fj.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/fk.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/fm.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/fo.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/fr.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ga.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/gb-eng.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/gb-nir.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/gb-sct.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/gb-wls.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/gb.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/gd.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ge.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/gf.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/gg.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/gh.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/gi.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/gl.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/gm.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/gn.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/gp.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/gq.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/gr.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/gs.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/gt.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/gu.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/gw.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/gy.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/hk.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/hm.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/hn.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/hr.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ht.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/hu.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/id.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ie.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/il.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/im.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/in.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/io.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/iq.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ir.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/is.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/it.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/je.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/jm.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/jo.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/jp.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ke.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/kg.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/kh.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ki.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/km.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/kn.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/kp.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/kr.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/kw.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ky.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/kz.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/la.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/lb.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/lc.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/li.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/lk.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/lr.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ls.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/lt.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/lu.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/lv.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ly.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ma.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/mc.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/md.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/me.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/mf.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/mg.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/mh.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/mk.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ml.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/mm.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/mn.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/mo.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/mp.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/mq.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/mr.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ms.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/mt.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/mu.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/mv.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/mw.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/mx.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/my.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/mz.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/na.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/nc.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ne.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/nf.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ng.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ni.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/nl.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/no.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/np.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/nr.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/nu.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/nz.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/om.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/pa.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/pe.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/pf.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/pg.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ph.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/pk.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/pl.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/pm.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/pn.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/pr.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ps.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/pt.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/pw.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/py.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/qa.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/re.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ro.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/rs.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ru.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/rw.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/sa.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/sb.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/sc.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/sd.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/se.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/sg.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/sh.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/si.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/sj.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/sk.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/sl.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/sm.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/sn.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/so.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/sr.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ss.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/st.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/sv.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/sx.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/sy.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/sz.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/tc.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/td.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/tf.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/tg.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/th.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/tj.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/tk.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/tl.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/tm.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/tn.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/to.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/tr.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/tt.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/tv.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/tw.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/tz.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ua.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ug.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/um.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/un.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/us.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/uy.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/uz.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/va.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/vc.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ve.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/vg.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/vi.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/vn.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/vu.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/wf.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ws.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/ye.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/yt.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/za.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/zm.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/flags/zw.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/general/25.jpg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/general/tabler.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/2checkout-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/2checkout.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/alipay-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/alipay.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/amazon-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/amazon.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/americanexpress-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/americanexpress.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/applepay-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/applepay.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/bancontact-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/bancontact.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/bitcoin-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/bitcoin.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/bitpay-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/bitpay.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/cirrus-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/cirrus.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/clickandbuy-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/clickandbuy.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/coinkite-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/coinkite.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/dinersclub-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/dinersclub.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/directdebit-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/directdebit.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/discover-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/discover.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/dwolla-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/dwolla.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/ebay-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/ebay.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/eway-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/eway.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/giropay-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/giropay.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/googlewallet-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/googlewallet.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/ingenico-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/ingenico.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/jcb-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/jcb.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/klarna-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/klarna.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/laser-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/laser.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/maestro-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/maestro.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/mastercard-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/mastercard.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/monero-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/monero.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/neteller-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/neteller.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/ogone-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/ogone.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/okpay-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/okpay.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/paybox-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/paybox.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/paymill-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/paymill.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/payone-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/payone.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/payoneer-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/payoneer.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/paypal-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/paypal.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/paysafecard-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/paysafecard.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/payu-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/payu.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/payza-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/payza.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/ripple-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/ripple.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/sage-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/sage.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/sepa-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/sepa.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/shopify-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/shopify.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/skrill-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/skrill.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/solo-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/solo.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/square-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/square.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/stripe-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/stripe.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/switch-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/switch.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/ukash-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/ukash.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/unionpay-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/unionpay.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/verifone-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/verifone.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/verisign-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/verisign.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/visa-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/visa.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/webmoney-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/webmoney.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/westernunion-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/westernunion.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/worldpay-dark.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/images/payments/worldpay.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/js/core.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/js/dashboard.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/js/require.min.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/js/vendors/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/js/vendors/chart.bundle.min.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/js/vendors/circle-progress.min.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/js/vendors/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/js/vendors/jquery-3.2.1.slim.min.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/js/vendors/jquery-jvectormap-2.0.3.min.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/js/vendors/jquery-jvectormap-de-merc.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/js/vendors/jquery-jvectormap-world-mill.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/js/vendors/jquery.sparkline.min.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/js/vendors/jquery.tablesorter.min.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/js/vendors/selectize.min.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/charts-c3/js/c3.min.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/charts-c3/js/d3.v3.min.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/charts-c3/plugin.css" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/charts-c3/plugin.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/css/dataTables.bootstrap.css" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/css/dataTables.bootstrap.min.css" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/css/dataTables.bootstrap4.css" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/css/dataTables.bootstrap4.min.css" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/css/dataTables.foundation.css" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/css/dataTables.foundation.min.css" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/css/dataTables.jqueryui.css" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/css/dataTables.jqueryui.min.css" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/css/dataTables.semanticui.css" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/css/dataTables.semanticui.min.css" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/css/jquery.dataTables.css" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/css/jquery.dataTables.min.css" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/images/sort_asc.png" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/images/sort_asc_disabled.png" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/images/sort_both.png" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/images/sort_desc.png" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/images/sort_desc_disabled.png" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/js/dataTables.bootstrap.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/js/dataTables.bootstrap.min.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/js/dataTables.bootstrap4.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/js/dataTables.bootstrap4.min.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/js/dataTables.foundation.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/js/dataTables.foundation.min.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/js/dataTables.jqueryui.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/js/dataTables.jqueryui.min.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/js/dataTables.semanticui.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/js/dataTables.semanticui.min.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/js/jquery.dataTables.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/DataTables-1.10.16/js/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/datatables.css" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/datatables.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/datatables.min.css" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/datatables.min.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/datatables/plugin.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/fullcalendar/js/fullcalendar.min.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/fullcalendar/js/moment.min.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/fullcalendar/plugin.css" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/fullcalendar/plugin.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/iconfonts/fonts/materialdesignicons/materialdesignicons-webfont.eot" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/iconfonts/fonts/materialdesignicons/materialdesignicons-webfont.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/iconfonts/fonts/materialdesignicons/materialdesignicons-webfont.ttf" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/iconfonts/fonts/materialdesignicons/materialdesignicons-webfont.woff" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/iconfonts/fonts/materialdesignicons/materialdesignicons-webfont.woff2" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/iconfonts/fonts/simple-line-icons/Simple-Line-Icons.eot" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/iconfonts/fonts/simple-line-icons/Simple-Line-Icons.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/iconfonts/fonts/simple-line-icons/Simple-Line-Icons.ttf" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/iconfonts/fonts/simple-line-icons/Simple-Line-Icons.woff" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/iconfonts/fonts/simple-line-icons/Simple-Line-Icons.woff2" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/iconfonts/fonts/themify/themify.eot" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/iconfonts/fonts/themify/themify.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/iconfonts/fonts/themify/themify.ttf" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/iconfonts/fonts/themify/themify.woff" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/iconfonts/fonts/weathericons/weathericons-regular-webfont.eot" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/iconfonts/fonts/weathericons/weathericons-regular-webfont.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/iconfonts/fonts/weathericons/weathericons-regular-webfont.ttf" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/iconfonts/fonts/weathericons/weathericons-regular-webfont.woff" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/iconfonts/fonts/weathericons/weathericons-regular-webfont.woff2" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/iconfonts/plugin.css" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/input-mask/js/jquery.mask.min.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/input-mask/plugin.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/maps-google/plugin.css" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/maps-google/plugin.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/prismjs/js/prism.pack.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/prismjs/plugin.css" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/public/assets/plugins/prismjs/plugin.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/src/components/auth/FacebookComponent.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/src/components/auth/GoogleComponent.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/src/components/auth/LoginComponent.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/src/components/dashboard/company/CreateCompany.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/src/components/dashboard/createProject/CreateProject.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/src/components/dashboard/createProject/Editorcustom.css" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/src/components/dashboard/createProject/PostEditor.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/src/components/dashboard/createProject/ProjectDescription.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/src/components/dashboard/createProject/ProjectImagesDetails.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/src/components/dashboard/createProject/ProjectMetaDetails.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/src/components/dashboard/createProject/customImageDesign.css" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/src/components/dashboard/genericNotFound/GenericNotFound.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/src/components/dashboard/layout/Content.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/src/components/dashboard/layout/Dashboard.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/src/components/dashboard/layout/NavigationHeader.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/src/components/dashboard/layout/PrimaryFooter.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/src/components/dashboard/layout/PrimaryHeader.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/src/components/dashboard/layout/SecondaryFooter.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/src/components/dashboard/notifications/Notifications.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/src/components/dashboard/profile/Profile.js" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/src/images/25.jpg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/src/images/jobsnew.PNG" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/src/images/tabler.svg" afterDir="false" />
+      <change afterPath="D:/selva/selvatutorial/src/images/worldknow.PNG" afterDir="false" />
+      <change beforePath="D:/lambda/lambda-mongocluster-s3-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="D:/reactpro/react-bootstrap-example/src/components/Navigation.js" beforeDir="false" afterPath="D:/reactpro/react-bootstrap-example/src/components/Navigation.js" afterDir="false" />
+      <change beforePath="D:/reactpro/xtreme-react-lite-master/src/components/main-components/addCourse.jsx" beforeDir="false" afterPath="D:/reactpro/xtreme-react-lite-master/src/components/main-components/addCourse.jsx" afterDir="false" />
+      <change beforePath="D:/reactpro/xtreme-react-lite-master/src/components/util/constants.js" beforeDir="false" afterPath="D:/reactpro/xtreme-react-lite-master/src/components/util/constants.js" afterDir="false" />
+      <change beforePath="D:/templates/MyApplication2/app/src/main/res/drawable/angular.png" beforeDir="false" afterPath="D:/templates/MyApplication2/app/src/main/res/drawable/angular.png" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/layout/Navbar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="17" column="116" selection-start-line="17" selection-start-column="116" selection-end-line="17" selection-end-column="116" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/store/action/authActions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/store/reducers/authReducer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="29" column="26" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/layout/SignedInLinks.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/auth/SignIn.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-204">
+              <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/auth/SignUp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="679">
+              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/dashboard/Dashboard.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/projects/CreateProject.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-661">
+              <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/projects/ProjectDetails.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>signup error</find>
+      <find>SIGNUP_ERROR</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/components/projects/Navbar.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/components/dashboard/Notifications.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/components/layout/SignedOutLinks.js" />
+        <option value="$PROJECT_DIR$/src/components/projects/ProjectSummary.js" />
+        <option value="$PROJECT_DIR$/src/store/action/projectActions.js" />
+        <option value="$PROJECT_DIR$/src/store/reducers/projectReducer.js" />
+        <option value="$PROJECT_DIR$/src/config/fbConfig.js" />
+        <option value="$PROJECT_DIR$/src/components/projects/ProjectList.js" />
+        <option value="$PROJECT_DIR$/src/store/reducers/rootReducer.js" />
+        <option value="$PROJECT_DIR$/src/components/dashboard/Dashboard.js" />
+        <option value="$PROJECT_DIR$/src/components/projects/CreateProject.js" />
+        <option value="$PROJECT_DIR$/src/components/projects/ProjectDetails.js" />
+        <option value="$PROJECT_DIR$/src/components/auth/SignIn.js" />
+        <option value="$PROJECT_DIR$/src/components/auth/SignUp.js" />
+        <option value="$PROJECT_DIR$/src/store/reducers/authReducer.js" />
+        <option value="$PROJECT_DIR$/src/store/action/authActions.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/components/layout/SignedInLinks.js" />
+        <option value="$PROJECT_DIR$/src/components/layout/Navbar.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-4" />
+    <option name="y" value="-13" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="todoapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todoapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todoapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todoapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todoapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todoapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todoapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todoapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todoapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todoapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todoapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todoapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+              <item name="action" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todoapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+              <item name="reducers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="D:\ReactTODOApp\todoapp\node_modules\eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2018.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ReactTODOApp\todoapp\src\components\layout" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17713a14-aec9-4009-85b3-1cd4fe32c57f" name="Default Changelist" comment="" />
+      <created>1559811061665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559811061665</updated>
+      <workItem from="1559811066829" duration="15234000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15234000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="RNConsole" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="24" column="120" selection-start-line="24" selection-start-column="120" selection-end-line="24" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/dashboard/Notifications.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/layout/SignedOutLinks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding>
+            <element signature="e#1#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/redux/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="265" column="13" selection-start-line="265" selection-start-column="13" selection-end-line="265" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/firebase/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="5940" column="18" selection-start-line="5940" selection-start-column="18" selection-end-line="5940" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/redux-firestore/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="153" column="17" selection-start-line="153" selection-start-column="17" selection-end-line="153" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/action/projectActions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+            <marker date="1559824412663" expanded="true" signature="389:467" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/reducers/projectReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/fbConfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/projects/ProjectSummary.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/projects/ProjectList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/reducers/rootReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/dashboard/Dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/projects/CreateProject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-661">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/projects/ProjectDetails.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/auth/SignIn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/reducers/authReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/action/authActions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/auth/SignUp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="679">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="17" column="116" selection-start-line="17" selection-start-column="116" selection-end-line="17" selection-end-column="116" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/layout/SignedInLinks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/layout/Navbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
